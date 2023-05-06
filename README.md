@@ -3,7 +3,7 @@
 
 
 ## 🖊 Brief Intro 
-It's a tool which gives the user an approximate proce of selling a car based on various features of car inserted by the user. 
+It's a tool which gives the user an approximate price of selling a car based on various features of car inserted by the user. 
 
 ## 📌 Importance 
 It benefits the user by providing best price for selling the cars based on comparing different features.
